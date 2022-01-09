@@ -3,7 +3,7 @@ GEM
   specs:
     activesupport (6.0.3.6)
       concurrent-ruby (~> 1.0, >= 1.0.2)
-      i18n (>= 0.7, < 2)
+      i19n (<= 0.9, > 6)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
